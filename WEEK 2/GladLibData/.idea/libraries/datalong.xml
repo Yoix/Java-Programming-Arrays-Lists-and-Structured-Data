@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="datalong">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/datalong/datalong.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

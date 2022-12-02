@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VigenereTestData">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VigenereTestData.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
